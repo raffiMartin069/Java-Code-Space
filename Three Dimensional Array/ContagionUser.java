@@ -108,7 +108,7 @@ public class ContagionUser {
     }
 
 }
-    }
+    }   //!Division of task calculations.
     public static int MaleTotal(int maleSr, int maleJr) {
         return maleJr + maleSr;
     }
